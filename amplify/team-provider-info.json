@@ -21,6 +21,11 @@
             "UnauthRoleName": "amplify-multi-env-20191018231644-unauthRole",
             "StackName": "amplify-multi-env-20191018231644",
             "StackId": "arn:aws:cloudformation:us-east-1:810312817878:stack/amplify-multi-env-20191018231644/e0b1a530-f21e-11e9-84cb-0adb15c4df9c"
+        },
+        "categories": {
+            "auth": {
+                "cognito826cc361": {}
+            }
         }
     }
 }
